@@ -184,7 +184,7 @@ body {
 }
 
 .extra-showcase {
-  background-image: url("elias2.jpg");
+  background-image: url("elias2.png");
   background-size: cover;             /* Resmi bölgeye sığdırır */
   background-position: center center; /* Ortalanmış */
   height: 100vh;                      /* Ekranın tamamını kaplar */

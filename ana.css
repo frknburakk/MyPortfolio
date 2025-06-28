@@ -369,13 +369,13 @@ textarea {
 
 /* Sol taraftaki görsel */
 .circle-photo.sol {
-  top: 2000px;
+  top: 1900px;
   left: 50px;
 }
 
 /* Sağ taraftaki görsel */
 .circle-photo.sag {
-  top: 2000px;
+  top: 1900px;
   right: 50px;
 }
 
